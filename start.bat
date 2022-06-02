@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -Dfile.encoding=UTF-8 -jar server.jar
